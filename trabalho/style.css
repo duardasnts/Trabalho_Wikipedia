@@ -1,0 +1,27 @@
+table {
+    width: 30%;
+    border-right: collapse;
+    margin: 4px 0;
+}
+th, td {
+    padding: 12px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+th {
+    background-color:#70C3FF;
+}
+body {
+    font-family: "Montserrat", sans-serif;
+    padding: 30px;
+    margin-left: 9px;
+    margin-right: 9px;
+}
+p{
+    text-indent: 3rem;
+}
+h1,h2{
+    text-align: center;
+}
+
+
